@@ -4,10 +4,6 @@ And Concept.md was one of the first concepts he came up with.
 
 Can you understand the context and the concept?
 
-GitHub Copilot: Read [](file:///c%3A/Users/dave/Documents/GitHub/The-Button-Pressers/docs/working/Chit-Chat.md)
-
-Read [](file:///c%3A/Users/dave/Documents/GitHub/The-Button-Pressers/docs/spec/Concept.md)
-
 Got it! I can see the full context now:
 
 **The Context (from Chit-Chat.md):**
@@ -27,5 +23,3 @@ The example is perfect: Ken Thompson wrote a game, which required him to write a
 So the project is essentially a curated collection of origin stories from computing and AI history, told through the lens of individual "button pressers" and the cascading effects of their choices. It's both historically informative and deeply human-focused. Really solid concept! 🎯
 
 User: Ok, can you generate a readme for this repo? I know we don't have much content yet, but I think you can probably generate something based on the concept ideals and purpose.
-
-GitHub Copilot: 
