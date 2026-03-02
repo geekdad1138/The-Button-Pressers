@@ -23,6 +23,8 @@ Unlike our other technical documentation, these entries follow a different set o
 | **[Tim Berners-Lee](./04-the-organizer.md)** | The Organizer | Had a messy desk; accidentally wove the World Wide Web. |
 | **[Steve Wozniak](./05-steve-wozniak.md)** | The Introvert | Wanted to wow his friends at a club; built the first PC. |
 | **[Ada Lovelace](./06-ada-lovelace.md)** | The Poet | Saw math as a language for art; wrote the first algorithm. |
+| **[Linus Torvalds](./07-linus-torvalds.md)** | The Hobbyist | Posted a "small" project for fun; built the world's OS. |
+| **[Grace Hopper](./08-grace-hopper.md)** | The Admiral | Found a moth in a machine; taught computers to speak English. |
 
 ---
 
