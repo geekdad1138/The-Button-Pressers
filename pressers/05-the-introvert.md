@@ -1,3 +1,5 @@
+# The Introvert
+
 ### **Steve Wozniak: The Eureka Moment at Homebrew (1975)**
 
 #### **The Human**

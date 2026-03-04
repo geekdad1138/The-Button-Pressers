@@ -25,6 +25,10 @@ Unlike our other technical documentation, these entries follow a different set o
 | **[Ada Lovelace](./06-ada-lovelace.md)** | The Poet | Saw math as a language for art; wrote the first algorithm. |
 | **[Linus Torvalds](./07-linus-torvalds.md)** | The Hobbyist | Posted a "small" project for fun; built the world's OS. |
 | **[Grace Hopper](./08-grace-hopper.md)** | The Admiral | Found a moth in a machine; taught computers to speak English. |
+| **[Margaret Hamilton](./09-margaret-hamilton.md)** | The Architect | Planned for human error; saved the moon landing. |
+| **[Ilya Sutskever](./10-ilya-sutskever.md)** | The Believer | Bet everything on "Bigger is Better"; gave us the LLM. |
+| **[Jensen Huang](./11-the-gambler.md)** | The Gambler | Bet the company on CUDA; built the engine of AI. |
+| **[Timnit Gebru](./12-the-truth-teller.md)** | The Truth-Teller | Forced the world to look at AI bias; sparked the Ethics era. |
 
 ---
 

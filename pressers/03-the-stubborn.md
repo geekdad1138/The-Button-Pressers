@@ -1,3 +1,5 @@
+# The Stubborn
+
 ### **Geoffrey Hinton: The Thirty-Year Bet (2012)**
 
 #### **The Human**

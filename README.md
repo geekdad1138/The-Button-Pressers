@@ -20,3 +20,12 @@ Every entry in this repository avoids the academic. We want to know what it felt
 * **The Organizer (Tim Berners-Lee):** Just wanted to keep his own notes straight at work; accidentally wove the World Wide Web.
 
 [👉 Explore the Gallery of Pressers](./pressers/README.md)
+
+---
+
+## 🏛️ The Computing History Trilogy
+This repository is part of a three-part series mapping the evolution of technology and the human spirit.
+
+* **[The First Clicks](https://github.com/geekdad1138/The-First-Clicks)** — *The Technical Milestones.* Trace the first time the machines actually worked.
+* **[Standing on the Shoulders](https://github.com/geekdad1138/Standing-on-the-Shoulders)** — *The Intellectual Lineage.* Map the dependency graph of ideas from 1837 to today.
+* **[The Button Pressers](https://github.com/geekdad1138/The-Button-Pressers)** — *The Human Stories.* The intimate moments and accidental choices that changed everything.

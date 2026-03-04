@@ -1,3 +1,5 @@
+# The Hobbyist
+
 ### **Linus Torvalds: The "Just for Fun" Explosion (1991)**
 
 #### **The Human**
