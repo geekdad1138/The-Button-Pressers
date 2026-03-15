@@ -1,8 +1,6 @@
 # The Organizer
 
-### **Tim Berners-Lee: The Digital Rolodex (1980/1989)**
-
-**Filename:** `pressers/04-the-organizer.md`
+## **Tim Berners-Lee: The Digital Rolodex (1980/1989)**
 
 #### **The Human**
 

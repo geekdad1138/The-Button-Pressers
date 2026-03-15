@@ -29,6 +29,12 @@ Unlike our other technical documentation, these entries follow a different set o
 | **[Ilya Sutskever](./10-ilya-sutskever.md)** | The Believer | Bet everything on "Bigger is Better"; gave us the LLM. |
 | **[Jensen Huang](./11-the-gambler.md)** | The Gambler | Bet the company on CUDA; built the engine of AI. |
 | **[Timnit Gebru](./12-the-truth-teller.md)** | The Truth-Teller | Forced the world to look at AI bias; sparked the Ethics era. |
+| **[Jensen Huang](https://www.google.com/search?q=./11-the-gambler.md)** | The Gambler | Bet the company on CUDA; built the engine of AI. |
+| **[Timnit Gebru](https://www.google.com/search?q=./12-the-truth-teller.md)** | The Truth-Teller | Forced the world to look at AI bias; sparked the Ethics era. |
+| **[Doug Engelbart](https://www.google.com/search?q=./13-the-visionary.md)** | The Visionary | Gave us the mouse and windows; imagined the "user." |
+| **[Claude Shannon](https://www.google.com/search?q=./14-the-messenger.md)** | The Messenger | Defined the "Bit"; turned the world into 1s and 0s. |
+| **[Satoshi Nakamoto](https://www.google.com/search?q=./15-the-ghost.md)** | The Ghost | Invented the blockchain and then vanished. |
+| **[Sam Altman](https://www.google.com/search?q=./16-the-accelerator.md)** | The Accelerator | Released ChatGPT; turned a lab project into a global race. |
 
 ---
 
